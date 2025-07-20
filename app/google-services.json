@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108426620027",
+    "project_id": "dns1-e1318",
+    "storage_bucket": "dns1-e1318.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108426620027:android:bacaffb5bc5e68e15286de",
+        "android_client_info": {
+          "package_name": "com.hayuwidyas.dns"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_UvEVnRyhLuNHsH659OdBe8yn4q1sdAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

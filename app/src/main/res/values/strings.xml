@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">DNS</string>
+    <string name="app_name">Hayu Widyas</string>
+    <string name="app_tagline">Handmade in Indonesia</string>
+    <string name="shop_now">Shop Now</string>
+    <string name="continue_as_guest">Continue as Guest</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
 </resources>
